@@ -36,9 +36,6 @@ Read [this brief page about importing modules](https://www.digitalocean.com/comm
 ### Step 4
 Read [this very brief introduction to NumPy](https://www.w3schools.com/python/numpy/numpy_intro.asp)
 
-And look at the section [on this page](https://www.w3schools.com/python/numpy/numpy_getting_started.asp) called NumPy as `np`.
-
-### Step 5
 Read these pages in order, and try out the code **in IDLE**:
 
 * [Creating NumPy Arrays](https://www.w3schools.com/python/numpy/numpy_creating_arrays.asp)
@@ -48,7 +45,7 @@ Read these pages in order, and try out the code **in IDLE**:
 * [NumPy Array Slicing](https://www.w3schools.com/python/numpy/numpy_array_slicing.asp)
 
 
-### Step 6
+### Step 5
 
 Copy and paste this code, **one line at a time**, into the IDLE shell for a treat:
 
