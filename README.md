@@ -1,4 +1,4 @@
-# NumPy and SciPy
+# Getting started with NumPy
 
 I was not able to find a NumPy or SciPy reading that I liked, so I am going to cobble together my own.
 
