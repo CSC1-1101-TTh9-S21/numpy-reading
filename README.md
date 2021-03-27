@@ -1,9 +1,7 @@
 # Getting started with NumPy
 
-I was not able to find a NumPy or SciPy reading that I liked, so I am going to cobble together my own.
-
 ### Step 1
-Install the NumPy and SciPy libraries by following the same instructions you used to install PySimpleGUI for problem set 7. Namely: launch Terminal (on Mac), or Command (on Windows) and type the following, replacing `pip3` with `pip` on Windows (I think):
+Install the NumPy, SciPy, and matplotlib libraries by following the same instructions you used to install PySimpleGUI for problem set 7. Namely: launch Terminal (on Mac), or Command (on Windows) and type the following, replacing `pip3` with `pip` on Windows (I think):
 
 ```
 pip3 install numpy 
