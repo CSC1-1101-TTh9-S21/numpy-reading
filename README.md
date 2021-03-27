@@ -27,6 +27,7 @@ Confirm that you installed these libraries correctly by going to the IDLE shell 
 ```
 import numpy as np
 import scipy
+import matplotlib.pyplot as plt
 ```
 
 ### Step 3
