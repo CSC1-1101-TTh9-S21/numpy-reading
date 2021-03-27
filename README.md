@@ -34,9 +34,7 @@ import matplotlib.pyplot as plt
 Read [this brief page about importing modules](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3).
 
 ### Step 4
-Read this very brief introduction to NumPy:
-
-[NumPy Intro](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+Read [this very brief introduction to NumPy](https://www.w3schools.com/python/numpy/numpy_intro.asp)
 
 And look at the section [on this page](https://www.w3schools.com/python/numpy/numpy_getting_started.asp) called NumPy as `np`.
 
