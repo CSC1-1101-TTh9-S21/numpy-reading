@@ -61,9 +61,9 @@ Read these pages about the aggregate functions in numpy:
 
 
 ## Step 6
-Read these helpful pagesL
+Read these helpful pages:
 
-* [`unique()`]((https://www.tutorialspoint.com/numpy/numpy_unique.htm)
+* [`unique()`](https://www.tutorialspoint.com/numpy/numpy_unique.htm)
 * [`where()`](https://thispointer.com/find-the-index-of-a-value-in-numpy-array/)
 
 ### Step 7
