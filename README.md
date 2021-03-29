@@ -60,7 +60,7 @@ Read these pages about the aggregate functions in numpy:
 * [Option 2](https://www.tutorialgateway.org/python-numpy-aggregate-functions/)
 
 
-## Step 6
+### Step 6
 Read these helpful pages:
 
 * [`unique()`](https://www.tutorialspoint.com/numpy/numpy_unique.htm)
