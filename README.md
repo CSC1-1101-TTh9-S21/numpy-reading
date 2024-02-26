@@ -1,7 +1,7 @@
 # Getting started with numpy and other modules
 
 ### Step 1
-You are now officially great at writing and running programs in IDLE. Starting this week, we are going to start coding with Colab notebooks. I will demonstrate this in class on Tuesday, but in the meantime, you should [get started by following this link to your first Colab notebook](https://colab.research.google.com/drive/1Hy3pEZG0WQK6RCmWryiO1GfT6h4cTWtP?usp=sharing) and following the instructions provided there. Once you've followed those instructions, you can re
+You are now officially great at writing and running programs in IDLE. Starting this week, we are going to start coding with Colab notebooks. I will demonstrate this in class on Tuesday, but in the meantime, you should [get started by following this link to your first Colab notebook](https://colab.research.google.com/drive/1Hy3pEZG0WQK6RCmWryiO1GfT6h4cTWtP?usp=sharing) and following the instructions provided there. Then you can try out the examples from the steps below in your Colab notebook.
 
 ### Step 2
 Read [this very brief introduction to NumPy](https://www.w3schools.com/python/numpy/numpy_intro.asp)
